@@ -12,3 +12,5 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+도움받은 링크 - https://medium.com/@ridvanozcan48/android-compose-making-splash-screen-with-lottie-f6bc5ae2c6ef
