@@ -41,6 +41,12 @@ kotlin {
             implementation(compose.ui)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
+
+            implementation(libs.navigator)
+            implementation(libs.navigator.tabs)
+            implementation(libs.navigator.transitions)
+
+            implementation(libs.compottie)
         }
     }
 }
